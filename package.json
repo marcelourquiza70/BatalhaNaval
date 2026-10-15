@@ -1,0 +1,25 @@
+{
+  "name": "batalhanaval",
+  "version": "1.0.0",
+  "description": "versão do jogo battleship do livro Head First Javascript",
+  "homepage": "https://github.com/marcelourquiza70/BatalhaNaval#readme",
+  "bugs": {
+    "url": "https://github.com/marcelourquiza70/BatalhaNaval/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelourquiza70/BatalhaNaval.git"
+  },
+  "license": "MIT",
+  "author": "Marcelo Urquiza",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^16.4.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  }
+}
